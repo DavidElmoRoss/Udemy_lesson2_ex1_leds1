@@ -11,7 +11,7 @@
 int main()
 {
     // Initialise the digital pin LED1 as an output
-    DigitalOut led(LED1);
+    DigitalOut led(LED1);            // connect led to the RED LED
 
     for(;;)
      {
